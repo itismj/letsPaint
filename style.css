@@ -6,11 +6,11 @@
 }
 
 body{
-    background-color: #43a047;
+    background-color: #4e6293;
 }
 
 .wrapper{
-    background-color: #fff;
+    background-color: #b0ea44;
     width: 80vmin;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -38,7 +38,7 @@ span{
 }
 
 button{
-    background-color: #43a047;
+    background-color: #361ecf;
     border: none;
     border-radius: 5px;
     padding: 5px;
